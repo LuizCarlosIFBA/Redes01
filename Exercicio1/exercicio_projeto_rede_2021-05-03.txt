@@ -1,0 +1,29 @@
+
+Exercicio 
+
+Trab 1 - Individual 
+
+
+Prover serviço de rede para o Colegiado de Sistema de Informação (CSI)
+
+
+02 laboratórios X 15 hosts
+Secretaria X 3 hosts
+Coordenação x 1 host
+
+Recebe 1 único endereço válido: 200.223.44.3, utilizar NAT
+
+Apresentar Configuração estática e dinâmica (DHCP) de IP
+
+A principio não tem restrição de acesso, acesso full 
+
+
+seu_nome_trab1
+
+2,5
+
+
+
+
+
+
